@@ -2,7 +2,7 @@
   "hospedes": [
         {"id": 1, "nome": "Roberto", "telefone": "11111111111", "email": "rob@erto.com", "cpf": "111111111", "estado": "Minas Gerais", "cidade":"Juiz de Fora", "cep": "11111-111", "bairro": "bairro1", "logradouro": "logradouro1", "numero": "1", "complemento":"", "genero": "masc", "dataNasc": "15/02/2000"},
         {"id": 2, "nome": "Robson", "telefone": "22222222222", "email": "rob@son.com", "cpf": "22222222222", "estado": "Rio de Janeiro", "cidade":"Rio de Janeiro", "cep": "22222-222", "bairro": "bairro2", "logradouro": "logradouro2", "numero": "2", "complemento": "bloco A 2006", "genero": "masc", "dataNasc": "10/03/2002"},
-        {"id": 1, "nome": "Rogério", "telefone": "33333333333", "email": "rog@erio.com", "cpf": "33333333333", "estado":"São Paulo", "cidade":"São Paulo", "cep": "33333-333", "bairro": "bairro3", "logradouro": "logradouro3", "numero": "3", "complemento": "", "genero": "masc", "dataNasc": "07/07/2007"},
+        {"id": 1, "nome": "Rogério", "telefone": "33333333333", "email": "rog@erio.com", "cpf": "33333333333", "estado":"São Paulo", "cidade":"São Paulo", "cep": "33333-333", "bairro": "bairro3", "logradouro": "logradouro3", "numero": "3", "complemento": "", "genero": "masc", "dataNasc": "07/07/2007"}
     ],
   "servicos":[
         {"id":1, "nome":"Massagem", "descricao":"Massagem do Mateus e Lorran", "preco":0, "idHotel":2, "minutosPorAgendamento":60},
@@ -12,7 +12,7 @@
   "itens": [
       {"id":1, "quantidadeEmEstoque": 5, "nome": "Airfreyer", "preço": 38.78},
       {"id":2, "quantidadeEmEstoque": 8, "nome": "Tv", "preço": 56.8},
-      {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preço": 10},
+      {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preço": 10}
     ],
   "itensNaHospedagem": [
     {"id":1, "idItem":4, "idHospedagem":1, "quantidade":3},
