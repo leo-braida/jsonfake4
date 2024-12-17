@@ -22,5 +22,10 @@
     {"id":2, "idItem":5, "idHospedagem":1, "quantidade":3},
     {"id":3, "idItem":4, "idHospedagem":2, "quantidade":1},
     {"id":4, "idItem":6, "idHospedagem":3, "quantidade":5}
-  ]
+  ],
+   "servicosNaHospedagem":[
+   {"id":1, "idServico":1, "idHospedagem":1, "quantidade":1},
+   {"id":2, "idServico":2, "idHospedagem":2, "quantidade":3},
+   {"id":3, "idServico":3, "idHospedagem":3, "quantidade":2)
+ ]
 }
